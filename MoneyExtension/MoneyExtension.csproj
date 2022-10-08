@@ -5,19 +5,20 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions.tls</PackageId>
+    <PackageId>MoneyExtensions_tls</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Thiago Luz</Authors>
+    <Company>Thiago Luz</Company>
     <PackageDescription>Extension to convert decimal to integer</PackageDescription>
     <Description>Extension to convert decimal to integer</Description>
     <RepositoryUrl>https://github.com/thiagotls58/money-extensions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/thiagotls58/money-extensions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageTags>money;convert;decimal;int</PackageTags>
-    <Title>MoneyExtensions.tls</Title>
-    <Summary>Extension to convert decimal to integer.</Summary>
+    <PackageTags>money;int;decima;converter</PackageTags>
+    <Title>MoneyExtensions_tls</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
   <ItemGroup>
