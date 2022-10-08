@@ -15,7 +15,6 @@
     <RepositoryUrl>https://github.com/thiagotls58/money-extensions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/thiagotls58/money-extensions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decima;converter</PackageTags>
     <Title>MoneyExtensions_tls</Title>
     <Summary>Extension to convert decimal to integer</Summary>
