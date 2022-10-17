@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>MoneyExtensions_tls15</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Thiago Luz</Authors>
     <Company>Thiago Luz</Company>
